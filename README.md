@@ -4,9 +4,9 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Felipe Campolina Soares de Paula
 * Arthur de Sá Camargo
 * Arthur Sgarbi Andrade
+* Felipe Campolina Soares de Paula
 * Pedro Gustavo de Castro Markiewicz
 * Rafael Lana Mascarenhas Diegues
 
