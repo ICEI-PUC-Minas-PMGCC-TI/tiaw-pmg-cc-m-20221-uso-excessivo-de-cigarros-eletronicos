@@ -14,7 +14,12 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 * Rommel Vieira Carneiro
 * Carlos Alberto Marques Pietrobon
-* 
+* Daniel de Oliveira Capanema
+* Felipe Domingos da Cunha
+* Fernanda Farinelli
+* Ilo Amy Saldanha Rivero
+* João Carlos Oliveira Caetano
+* Walisson Ferreira de Carvalho
 
 ## Instruções de utilização
 
