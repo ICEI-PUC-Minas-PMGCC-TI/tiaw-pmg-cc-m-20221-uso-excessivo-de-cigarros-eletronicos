@@ -1,79 +1,90 @@
-![](media/image1.png)
-
-DEF'S Support
+# Informações do Projeto
+DEF'S Support  
 
 Trabalho Interdisciplinar - Aplicações Web
 
-Belo Horizonte, Abril/2022
+`Ciências da Computação - PUC MINAS` 
 
-Sumário
 
-**[Introdução](#introdução) 3**
+## Participantes
+> Inclua a lista dos membros da equipe com seus nomes completos.
+>
+> Os membros do grupo são: 
+>- Arthur de Sá Camargo
+>- Arthur Sgarbi Andrade
+>- Felipe Campolina Soares de Paula
+>- Pedro Gustavo de Castro Markiewicz
+>- Rafael Lana Mascarenhas Diegues
 
-> [Problema](#problema) 3
-> 
-> [Objetivos](#objetivos) 3
-> 
-> [Justificativa](#justificativa) 4
-> 
-> [Público alvo](#público-alvo) 4
+# Estrutura do Documento
 
-**[Especificação do Projeto](#especificação-do-projeto) 5**
 
-> [Personas](#personas) 5
-> 
-> [Histórias de usuários](#histórias-de-usuários) 7
-> 
-> [Requisitos do Projeto](#requisitos-do-projeto) 8
-> 
-> [Requisitos Funcionais](#requisitos-funcionais) 8
-> 
-> [Requisitos não funcionais](#requisitos-não-funcionais) 8
-> 
-> [Restrições](#restrições) 9
+**[Introdução](#introdução)**
 
-**[Metodologia](#metodologia) 9**
+> [Problema](#problema) 
+> 
+> [Objetivos](#objetivos) 
+> 
+> [Justificativa](#justificativa) 
+> 
+> [Público alvo](#público-alvo) 
+
+**[Especificação do Projeto](#especificação-do-projeto)**
+
+> [Personas](#personas) 
+> 
+> [Histórias de usuários](#histórias-de-usuários) 
+> 
+> [Requisitos do Projeto](#requisitos-do-projeto) 
+> 
+> [Requisitos Funcionais](#requisitos-funcionais)
+> 
+> [Requisitos não funcionais](#requisitos-não-funcionais) 
+> 
+> [Restrições](#restrições) 
+
+**[Metodologia](#metodologia)**
 
 > [Relação de Ambientes de Trabalho](#relação-de-ambientes-de-trabalho)
-> 9
 > 
-> [Gestão de código fonte](#gestão-de-código-fonte) 10
 > 
-> [Gerenciamento do Projeto](#gerenciamento-do-projeto) 10
+> [Gestão de código fonte](#gestão-de-código-fonte) 
+> 
+> [Gerenciamento do Projeto](#gerenciamento-do-projeto) 
 
-**[Projeto de Interface](#projeto-de-interface) 12**
+**[Projeto de Interface](#projeto-de-interface)**
 
-> [Fluxo do Usuário](#fluxo-do-usuário) 12
+> [Fluxo do Usuário](#fluxo-do-usuário) 
 > 
-> [Wireframes](#wireframes) 13
+> [Wireframes](#wireframes) 
 > 
-> [Tela - Login](#tela---login) 14
+> [Tela - Login](#tela---login) 
 > 
-> [Tela - Página de registrar](#tela---página-de-registrar) 14
+> [Tela - Página de registrar](#tela---página-de-registrar) 
 > 
-> [Tela - Questionário](#tela---questionário) 15
+> [Tela - Questionário](#tela---questionário) 
 > 
-> [Tela - Inicial](#tela---inicial) 15
+> [Tela - Inicial](#tela---inicial) 
 > 
-> [Tela - Conquistas e desafios](#tela---conquistas-e-desafios) 16
+> [Tela - Conquistas e desafios](#tela---conquistas-e-desafios) 
 > 
-> [Tela - Videos e notícias](#tela---videos-e-notícias) 16
+> [Tela - Videos e notícias](#tela---videos-e-notícias) 
 > 
 > [Tela - Experiências dos usuários](#tela---experiências-dos-usuários)
-> 17
 > 
-> [Tela - Benefícios e Malefícios](#tela---benefícios-e-malefícios) 17
+> 
+> [Tela - Benefícios e Malefícios](#tela---benefícios-e-malefícios) 
 > 
 > [Tela - Causas, prevenção e
-> tratamento](#tela---causas-prevenção-e-tratamento) 18
+> tratamento](#tela---causas-prevenção-e-tratamento) 
 > 
-> [Tela - Perfil](#tela---perfil) 18
+> [Tela - Perfil](#tela---perfil) 
 > 
-> [Tela - Sobre](#tela---sobre) 19
+> [Tela - Sobre](#tela---sobre) 
 > 
-> [Tela - Buscar](#tela---buscar) 19
+> [Tela - Buscar](#tela---buscar) 
 
-**[Referências Bibliográficas](#referências-bibliográficas) 20**
+**[Referências Bibliográficas](#referências-bibliográficas)**
 
 # 
 
