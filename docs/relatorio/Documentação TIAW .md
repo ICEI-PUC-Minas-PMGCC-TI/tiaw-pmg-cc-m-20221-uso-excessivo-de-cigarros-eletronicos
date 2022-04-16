@@ -187,7 +187,7 @@ processo de entendimento do problema.
 <table>
 <thead>
 <tr class="header">
-<th><img src="media/image10.jpg" style="width:1.9375in;height:2.58333in" /></th>
+<th><img src="images/image18.jpg" style="width:1.9375in;height:2.58333in" /></th>
 <th><strong>Jorge Matheus Otoni</strong></th>
 <th></th>
 </tr>
