@@ -603,11 +603,11 @@ O quadro kanban do grupo no Trello está disponível através da URL
 e é apresentado, no estado atual, na Figura X. A definição desta
 estrutura se baseou na proposta feita por Littlefield (2016).
 
-<img src="images/image7.jpg" style="width:1.9375in;height:1.94444in" />
+<img src="images/image7.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Tela do Trello utilizada pelo grupo
 
-<img src="images/image17.jpg" style="width:1.9375in;height:1.94444in" />
+<img src="images/image17.png" style="width:1.9375in;height:1.94444in" />
 
 As tarefas foram divididas e etiquetadas nas seguintes categorias:
 
@@ -639,7 +639,7 @@ detalhada cada uma das telas desse fluxo. Para visualizar o wireframe
 interativo, acesse o [<span class="underline">ambiente MarvelApp do
 projeto</span>](https://marvelapp.com/prototype/175iab59/screen/86225823).
 
-(images/image2.jpg)
+<img src="images/image2.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Fluxo de telas do usuário
 
@@ -659,7 +659,7 @@ grandes blocos descritos a seguir. São eles:
   - > **Rodapé** - apresenta os elementos de navegação secundária,
     > geralmente associados aos elementos do bloco de conteúdo.
 
-![](images/image4.jpg)
+<img src="images/image4.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Estrutura padrão do site
 
@@ -673,7 +673,7 @@ conta, ele pode, por meio do botão "registre-se", criar uma conta no
 site. Em caso de esquecer a senha, o usuário pode tentar recuperá-la
 clicando em “esqueceu a senha”.
 
-![](images/image5.jpg)
+<img src="images/image5.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Página de login
 
@@ -685,7 +685,7 @@ confirmar a senha. Em caso de já possuir uma conta, o usuário pode optar
 pela opção “clique aqui” onde ele vai direto para a página de login no
 site.
 
-![](images/image16.jpg)
+<img src="images/image16.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Página de registar
 
@@ -695,7 +695,7 @@ Na “Tela-Questionário”, após o usuário se registrar no site, ele será
 direcionado a essa página na qual ele responderá algumas perguntas com o
 intuito de caracterizar sua personalidade e relação com os DEF´S.
 
-![](images/image6.jpg)
+<img src="images/image6.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Tela - Questionário
 
@@ -706,7 +706,7 @@ funcionalidades do site. A partir dela, ele pode acessar a página de
 conquistas e desafios, vídeos e notícias, experiências dos usuários,
 benefícios e malefícios e causa, prevenção e tratamento.
 
-![](images/image3.jpg)
+<img src="images/image3.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Tela inicial - Home
 
@@ -717,16 +717,16 @@ de conquistas. Na primeira, o usuário é motivado por meio de desafios a
 serem cumpridos. Na segunda, fica representado suas conquistas
 referentes aos objetivos cumpridos.
 
-![](images/image10.jpg)
+<img src="images/image10.png" style="width:1.9375in;height:1.94444in" />
 
-Figura X - Tela de Leitura de Notícia
+Figura X - Tela de Conquistas e Desafios
 
 ### Tela - Videos e notícias 
 
 A “Tela- Vídeos e Notícias” é onde ficam armazenadas as notícias e
 vídeos relacionados ao tema do site, combate aos DEF´S.
 
-![](images/image19.jpg)
+<img src="images/image19.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Tela - Vídeos e notícias
 
@@ -737,7 +737,7 @@ usuários dos sites contam suas experiências relacionadas ao vício com o
 uso de cigarros eletrônicos. Nela, os participantes são capazes de
 conversar entre eles.
 
-![](images/image14.jpg)
+<img src="images/image14.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Tela - Experiências dos usuários
 
@@ -746,7 +746,7 @@ Figura X - Tela - Experiências dos usuários
 Na “Tela- Benefícios e Malefícios” são apresentados os malefícios de
 fumar e os benefícios de parar de fumar.
 
-![](images/image20.jpg)
+<img src="images/image20.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Benéficos e Malefícios
 
@@ -758,7 +758,7 @@ prevenir que isso aconteça, além de maneiras de tratar e parar com esse
 hábito. Também são apresentadas indicações médicas de locais para tratar
 desse vício.
 
-![](images/image9.jpg)
+<img src="images/image9.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Causas, prevenção e tratamento
 
@@ -769,7 +769,7 @@ mostrando suas principais características. Nela, estão presentes suas
 informações, pessoas com quem interagiu e suas conquistas no combate ao
 uso de DEF´S.
 
-![](images/image13.jpg)
+<img src="images/image13.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Perfil
 
@@ -779,7 +779,7 @@ Na “Tela- Sobre” é apresentado um resumo a respeito do grupo criador do
 site. Nela, estão presentes os principais objetivos do grupo, de onde
 eles vieram, suas parcerias e quem são.
 
-![](images/image21.jpg)
+<img src="images/image21.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Sobre
 
@@ -788,7 +788,7 @@ Figura X - Sobre
 A tela "busca" foi feita com a finalidade de que o usuário ache todos os
 conteúdos de forma mais simples e compacta na plataforma.
 
-![](images/image15.jpg)
+<img src="images/image15.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Buscar
 
