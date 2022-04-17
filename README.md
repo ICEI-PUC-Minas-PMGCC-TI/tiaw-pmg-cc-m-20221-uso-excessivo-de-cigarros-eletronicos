@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7609181&assignment_repo_type=AssignmentRepo)
 # Uso excessivo de cigarros eletrônicos
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O objetivo geral deste trabalho é a criação de uma plataforma que auxilia as pessoas que fumam cigarros eletrônicos a reduzirem este hábito, visando a interrupção por completa dessa prática, assim reduzindo a prevalência de fumantes e a consequente morbimortalidade relacionada ao consumo de derivados do tabaco.
 
 ## Alunos integrantes da equipe
 
