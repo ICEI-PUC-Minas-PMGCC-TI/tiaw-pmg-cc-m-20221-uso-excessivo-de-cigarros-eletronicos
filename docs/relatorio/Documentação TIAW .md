@@ -546,7 +546,7 @@ deliver better
 code</span>](https://zepel.io/blog/5-git-workflows-to-improve-development/)",
 é encontrada uma explicação rápida sobre este processo.
 
-![](images/image11.jpg)
+<img src="images/image11.png" style="width:1.9375in;height:1.94444in" />
 
 Figura X - Fluxo de controle do código fonte no repositório git
 
