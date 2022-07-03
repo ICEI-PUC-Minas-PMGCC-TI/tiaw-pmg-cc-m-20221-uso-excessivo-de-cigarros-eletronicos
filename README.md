@@ -7,8 +7,6 @@ O objetivo geral deste trabalho é a criação de uma plataforma que auxilia as 
 * Arthur de Sá Camargo
 * Arthur Sgarbi Andrade
 * Felipe Campolina Soares de Paula
-* Pedro Gustavo de Castro Markiewicz
-* Rafael Lana Mascarenhas Diegues
 
 ## Professores responsáveis
 
