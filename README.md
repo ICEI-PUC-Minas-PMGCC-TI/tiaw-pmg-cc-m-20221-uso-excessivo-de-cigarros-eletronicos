@@ -21,4 +21,4 @@ O objetivo geral deste trabalho é a criação de uma plataforma que auxilia as 
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para utilização do website, o usuário deve entrar no site via link disponibilizado ou via VS code, usando a extensão LIVE-SERVER, método recomendado devido ao erro de conexão de uma API usada com o site o qual a página foi hospedada. Após acessada a página de login, o cliente deve criar uma conta, assim permitindo o login e o uso da plataforma. 
